@@ -1,11 +1,10 @@
 git init
-git --global user.name "Sattar Sultan"
-git --global email.name "sattarsultan10@gmail.com"
+git checkout -b week02-practice
+git config --global user.name "Sattar Sultan"
+git config --global user.email "sattarsultan10@gmail.com"
 git add.
-git add learning_log
-git commit -m "Learning File"
+git commit -m "Save Changes"
 git push origin main
-git checkout -b week2-practice
-code git_commands.md
-git clone
+git push origin week02-practice
+git reset 
 cls
