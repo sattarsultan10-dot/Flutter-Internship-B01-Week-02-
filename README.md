@@ -20,7 +20,7 @@ To get this project, run the following command:
 git clone https://github.com/sattarsultan10-dot/Flutter-Internship-B01-Week-02.git
 
 ---
-# ▶️ Usage
+#  Usage
 This project is used for: sp sp
 1. Learning the git and github sp sp
 2. Practicing Dart sp sp
