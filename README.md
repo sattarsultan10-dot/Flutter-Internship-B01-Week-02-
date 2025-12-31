@@ -27,12 +27,12 @@ This project is used for: sp sp
 3. Flutter Intership Tasks
 
 ---
-# 🖼️ Screenshots
+#  Screenshots
 ![Fork Repository](screenshots/s1.PNG)
 ![Adding ScreenShots](screenshots/s8.PNG)
 
 ---
-# 📅 WeeklyProgress
+#  WeeklyProgress
 |Week|What I have Learned|
 |----|-----------------|
 |Week 1|Git and GitHub Fundamentals|
@@ -40,7 +40,7 @@ This project is used for: sp sp
 |Week 3|Flutter Projects|
 
 ---
-# 🛠️ Technologies
+#  Technologies
 - Flutter 
 - Dart
 - Git
@@ -48,17 +48,17 @@ This project is used for: sp sp
 - VS Code
 
 ---
-# 🔗 Resources
+#  Resources
 - [Flutter Official Docs](https://docs.flutter.dev/.) 
 - [GitHub Docs](https://docs.github.com/)
 - [Dart Language](https://dart.dev/)
   
  ---
-  # 📄 License
+  #  License
 This project is licensed under the MIT License.
 
   ---
-# 📞 Contact
+#  Contact
 Name : Sattar Sultan  
 GitHub: https://github.com/sattarsultan10-dot/Flutter-Internship-B01-Week-02  
 Email: sattarsultan10@gmail.com
