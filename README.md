@@ -15,7 +15,7 @@ I am learning git,github, dart and flutter in this internship.sp sp
 - [Contact](#contact)
 
 ---
-# ⚙️ Installation
+#  Installation
 To get this project, run the following command:
 git clone https://github.com/sattarsultan10-dot/Flutter-Internship-B01-Week-02.git
 
