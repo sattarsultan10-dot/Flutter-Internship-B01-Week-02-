@@ -18,7 +18,8 @@ This project is used for: sp sp
 2. Practicing Dart sp sp
 3. Flutter Intership Tasks
 # Screenshots
-![Repository](screenshots/s1.PNG)
+![Fork Repository](screenshots/s1.PNG)
+![Adding ScreenShots](screenshots/s8.PNG)
 # WeeklyProgress
 |Week|What I have Learned|
 |----|-----------------|
