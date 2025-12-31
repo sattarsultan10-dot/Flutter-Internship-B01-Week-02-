@@ -19,7 +19,6 @@ This project is used for: sp sp
 3. Flutter Intership Tasks
 # Screenshots
 ![Repository](screenshots/s1.PNG)
-![Pull Request](screenshots/s7a.PNG)
 # WeeklyProgress
 |Week|What I have Learned|
 |----|-----------------|
